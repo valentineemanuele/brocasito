@@ -1,0 +1,14 @@
+# Ignorar pastas do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de dependências de editores
+.vscode/
+.idea/
+
+# Ignorar a pasta node_modules (caso esteja usando Node.js)
+node_modules/
+
+# Ignorar arquivos de compilação
+*.log
+*.bak
